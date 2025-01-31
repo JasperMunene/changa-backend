@@ -35,4 +35,4 @@ api.add_resource(ContributionResource, '/contributions')
 api.add_resource(health, '/')
 
 if __name__ == '__main__':
-    app.run(port=4000)
+    app.run()

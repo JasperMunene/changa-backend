@@ -10,6 +10,7 @@ Flask-Cors==5.0.0
 Flask-Migrate==3.1.0
 Flask-RESTful==0.3.10
 Flask-SQLAlchemy==3.0.3
+Gunicorn
 greenlet==3.1.1
 importlib-metadata==6.0.0
 importlib-resources==5.10.0
