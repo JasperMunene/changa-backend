@@ -22,10 +22,10 @@ def make_users():
             avatar_url="https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJzTDRCWnhTTjNUNE1ZNFZ0UmRQMGEwWmszeSJ9"
         ),
         User(
-            clerk_id="clerk_user_id_2",
-            email="jane@example.com",
-            name="Jane Smith",
-            avatar_url="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&auto=format&fit=crop&q=60"
+            clerk_id="user_2sdIY1ZEG3Ak7dttg78KKyKt8Dj",
+            email="victoreslieh@gmail.com",
+            name="eslieh",
+            avatar_url="https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yc0RwbEU5Tmp2Ulg3Y0dyTFN1bW1GSnZtMUciLCJyaWQiOiJ1c2VyXzJzZElZMVpFRzNBazdkdHRnNzhLS3lLdDhEaiJ9"
         ),
         User(
             clerk_id="clerk_user_id_3",
